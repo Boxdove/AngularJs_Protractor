@@ -1,0 +1,7 @@
+{
+  "appenders": [
+    {
+      "type": "log4js-protractor-appender"
+    }
+  ]
+}
